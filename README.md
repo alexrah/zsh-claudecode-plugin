@@ -8,7 +8,7 @@ I made this fork to extract just the plugin and install it on ohmyzsh as a submo
 ## How to install
 ```bash
 cd /to/ohmyzsh/folder/plugins
-git clone https://github.com/alexrah/ohmyzsh-claudeCode-plugin claudecode
+git clone https://github.com/alexrah/zsh-claudecode-plugin claudecode
 ```
 open .zshrc and add claudecode to the list of enabled plugins
 ```bash
